@@ -114,8 +114,12 @@ daily:      Arch Linux (btw) · CachyOS · Debian · Windows 11
 ## 📊 Estadísticas
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&cache_seconds=86400" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&langs_count=8&cache_seconds=86400" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=aresss13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&cache_seconds=86400" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aresss13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&langs_count=8&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aresss13&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
 
 <p align="center">
