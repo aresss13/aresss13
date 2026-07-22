@@ -29,20 +29,13 @@ tambien:    Plugins y mods de Minecraft
 redes:      Ubiquiti · MikroTik · TP-Link
 daily:      Arch Linux (btw) · CachyOS · Debian · Windows 11
 ```
-
 ## 🚀 Sobre mí
 
-- 💻 **Desarrollo Full Stack & DevOps** — Construyo aplicaciones web y software de punta a punta: sistemas de administración multi-portal, plataformas SaaS multi-tenant, cotizadores con generación de PDF y APIs. De la primera línea de código hasta el deploy en producción.
-
-- 🌐 **Infraestructura y Redes** — Administro servidores, routing y despliegues en producción. Experiencia en migraciones de red a gran escala (IPv4 → IPv6 dual-stack sobre miles de suscriptores), RADIUS, MikroTik y automatización de procesos de red con Python.
-
-- 🧪 **Homelab & Experimentación** — Todo lo nuevo lo pruebo primero en mi clúster Proxmox multi-nodo antes de llevarlo a producción: Docker, Nginx Proxy Manager, túneles Cloudflare, Pi-hole y todo lo que se pueda self-hostear.
-
-- ⛏️ **Gaming & Mods** — Desarrollo plugins y mods de Minecraft, y administro infraestructura de servidores de juego. La ingeniería de software también se aprende desde el gaming.
-
-- 🤖 **Desarrollo Centrado en IA** — Uso modelos de lenguaje como copilotos e integro IA directamente en el flujo de trabajo y en los productos que construyo.
-
-- 🎯 **Siempre aprendiendo** — Del kernel de Linux al frontend en 3D con Three.js: si no lo entiendo, lo desarmo hasta que sí.
+- 💻 **Desarrollo Full Stack & DevOps:** Construyo aplicaciones web y software de punta a punta, manejando la infraestructura desde el código hasta producción.
+- 🌐 **Infraestructura y Redes:** Configuro y administro servidores, routing y despliegues (con experiencia en proyectos de migración de red y arquitecturas escalables).
+- 🧪 **Homelab & Experimentación:** Todo lo nuevo lo pongo a prueba primero en mi propio homelab con Proxmox y Docker antes de llevarlo a producción.
+- ⛏️ **Gaming & Mods:** Desarrollo plugins y mods de Minecraft, abordando la ingeniería de software también desde la perspectiva del gaming.
+- 🤖 **Desarrollo Centrado en IA:** Utilizo modelos de lenguaje e inteligencia artificial como copilotos y herramientas de integración en el flujo de trabajo diario.
 
 ---
 
