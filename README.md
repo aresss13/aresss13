@@ -1,26 +1,14 @@
-<!--
-  ============================================================
-  README DE PERFIL — Ares
-  IMPORTANTE: reemplaza TU-USUARIO por tu usuario real de GitHub
-  (aparece 8 veces en este archivo)
-  ============================================================
--->
-
-<!-- BANNER SUPERIOR -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hola,%20me%20llamo%20Ares&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20Engineer%20%C2%B7%20Full%20Stack%20Dev&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Ivan%20Gonz%C3%A1lez&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Systems%20Engineer%20%C2%B7%20Full%20Stack%20Developer&descAlignY=53&descSize=18" />
 </p>
 
-<!-- TEXTO QUE SE ESCRIBE SOLO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+Apps+%C2%B7+Software+%C2%B7+APIs;Minecraft+Plugins+%26+Mods;Linux+%26+Homelab+enjoyer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=620&lines=Hola%2C+me+llamo+Ares+%F0%9F%96%A4;Full+Stack+Developer;Web+Apps+%C2%B7+Software+%C2%B7+APIs;Minecraft+Plugins+%26+Mods;Arch+Linux+%26+Homelab+enjoyer" />
 </p>
 
-<!-- CONTADOR DE VISITAS + BADGES SOCIALES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU-USUARIO&label=Profile%20views&color=38bdf8&style=flat" />
-  <a href="https://novamcore.cl"><img src="https://img.shields.io/badge/NovaMCore-0f2027?style=flat&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.astromac.net"><img src="https://img.shields.io/badge/AstroMac-62B47A?style=flat&logo=curseforge&logoColor=white" /></a>
+  <a href="https://novamcore.cl"><img src="https://img.shields.io/badge/Portfolio-novamcore.cl-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=TU-USUARIO&label=Profile%20views&color=38bdf8&style=for-the-badge" />
 </p>
 
 ---
@@ -28,23 +16,26 @@
 ## 🧑‍💻 Sobre mí
 
 ```yaml
-nombre:    Ares
-nivel:     28
-ubicacion: [MX, CL]
-rol:       Systems Engineer / Full Stack Dev
-trabajo:   Apps web, software a medida y APIs
-side:      NovaMCore — hosting AstroMac (servidores de Minecraft gratis)
-hobby:     Homelab, redes y romper cosas para aprender
+nombre:     Ivan González
+alias:      Ares
+nivel:      28
+ubicacion:  [MX, CL]
+rol:        Systems Engineer / Full Stack Developer
+portfolio:  novamcore.cl
+enfoque:    Apps web · Software a medida · APIs
+tambien:    Plugins y mods de Minecraft
+daily:      Arch Linux (btw) · CachyOS · Debian
 ```
 
 - 🚀 Construyo **aplicaciones web y software** de punta a punta
 - ⛏️ Desarrollo **plugins y mods de Minecraft**
 - 🌐 Manejo **redes, routing y servidores** en producción
 - 🧪 Todo lo que aprendo lo pruebo primero en mi **homelab**
+- 🤖 Trabajo con **IA como copiloto** en el día a día
 
 ---
 
-## 🛠️ Stack & Herramientas
+## 🛠️ Stack
 
 ### Lenguajes
 <p>
@@ -56,18 +47,48 @@ hobby:     Homelab, redes y romper cosas para aprender
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
 </p>
 
-### Backend & Datos
+### Backend & Bases de datos
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,prisma,redis" />
 </p>
 
-### Infra, Redes & Sistemas
+### Infraestructura & Redes
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,cloudflare,git,github,proxmox" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,git,github,proxmox" />
   <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" height="48" />
 </p>
 
-### Minecraft Dev
+---
+
+## 🐧 Sistemas que uso
+
+<p>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/CachyOS-00A6A6?style=for-the-badge&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624" />
+</p>
+
+## 🧰 Herramientas del día a día
+
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Termius-1B1B1B?style=for-the-badge&logo=termius&logoColor=white" />
+  <img src="https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+## 🤖 IA que uso
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</p>
+
+## ⛏️ Minecraft Dev
+
 <p>
   <img src="https://img.shields.io/badge/Paper-2B2B2B?style=for-the-badge&logo=minecraft&logoColor=white" />
   <img src="https://img.shields.io/badge/Spigot-ED8106?style=for-the-badge&logo=minecraft&logoColor=white" />
@@ -89,40 +110,28 @@ hobby:     Homelab, redes y romper cosas para aprender
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TU-USUARIO&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU-USUARIO&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=ffffff" />
 </p>
 
-<!-- GRÁFICO DE ACTIVIDAD (requiere activar GitHub Actions o usar el servicio publico) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU-USUARIO&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=ffffff" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TU-USUARIO&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
 
 ---
 
-## 🚀 Proyectos
+## 💼 Portfolio
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">NovaMCore</h3>
-      <p align="center">
-        <a href="https://novamcore.cl">
-          <img src="https://img.shields.io/badge/Visitar-novamcore.cl-38BDF8?style=for-the-badge" />
-        </a>
-      </p>
-      <p align="center">Mi marca de desarrollo: software a medida, apps web e infraestructura.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">AstroMac</h3>
-      <p align="center">
-        <a href="https://www.astromac.net">
-          <img src="https://img.shields.io/badge/Visitar-astromac.net-62B47A?style=for-the-badge" />
-        </a>
-      </p>
-      <p align="center">Hosting de <b>servidores de Minecraft gratis</b>, con panel y soporte.</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://novamcore.cl">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=110&section=header&text=NovaMCore&fontSize=34&fontColor=38BDF8&fontAlignY=42&desc=novamcore.cl%20%C2%B7%20Desarrollo%20web%2C%20software%20e%20infraestructura&descAlignY=72&descSize=14" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://novamcore.cl">
+    <img src="https://img.shields.io/badge/Ver%20portfolio-novamcore.cl-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
 <!--
   BONUS: tarjetas de repos destacados.
@@ -137,11 +146,11 @@ hobby:     Homelab, redes y romper cosas para aprender
 
 ---
 
-## 📫 Dónde encontrarme
+## 📫 Contacto
 
 <p align="center">
-  <a href="https://twitter.com/TU-USUARIO-X"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://novamcore.cl"><img src="https://img.shields.io/badge/Web-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://twitter.com/TU-USUARIO-X"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:TU-CORREO@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://discord.gg/TU-INVITE"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
