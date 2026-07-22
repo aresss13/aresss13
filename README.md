@@ -1,14 +1,16 @@
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Ivan%20Gonz%C3%A1lez&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Systems%20Engineer%20%C2%B7%20Full%20Stack%20Developer&descAlignY=53&descSize=18" />
 </p>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=620&lines=Hola%2C+me+llamo+Ares+%F0%9F%96%A4;Full+Stack+Developer;Web+Apps+%C2%B7+Software+%C2%B7+APIs;Minecraft+Plugins+%26+Mods;Arch+Linux+%26+Homelab+enjoyer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=620&lines=Hola%2C+me+llamo+Ares+%F0%9F%96%A4;Full+Stack+Developer;Web+Apps+%C2%B7+Software+%C2%B7+APIs;Minecraft+Plugins+%26+Mods;Redes+%26+Homelab+enjoyer" />
 </p>
 
 <p align="center">
   <a href="https://novamcore.cl"><img src="https://img.shields.io/badge/Portfolio-novamcore.cl-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=TU-USUARIO&label=Profile%20views&color=38bdf8&style=for-the-badge" />
+  <a href="https://x.com/aresss_13"><img src="https://img.shields.io/badge/@aresss__13-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
 ---
@@ -24,10 +26,12 @@ rol:        Systems Engineer / Full Stack Developer
 portfolio:  novamcore.cl
 enfoque:    Apps web · Software a medida · APIs
 tambien:    Plugins y mods de Minecraft
-daily:      Arch Linux (btw) · CachyOS · Debian
+redes:      Ubiquiti · MikroTik · TP-Link
+daily:      Arch Linux (btw) · CachyOS · Debian · Windows 11
 ```
 
 - 🚀 Construyo **aplicaciones web y software** de punta a punta
+- 🎨 Me gusta el **frontend con carácter**: CSS a mano y 3D con Three.js
 - ⛏️ Desarrollo **plugins y mods de Minecraft**
 - 🌐 Manejo **redes, routing y servidores** en producción
 - 🧪 Todo lo que aprendo lo pruebo primero en mi **homelab**
@@ -44,32 +48,41 @@ daily:      Arch Linux (btw) · CachyOS · Debian
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,threejs,vite" />
 </p>
 
-### Backend & Bases de datos
+### Backend, Datos & BaaS
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,prisma,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql,mongodb,redis,supabase,firebase" />
 </p>
 
-### Infraestructura & Redes
+### Infraestructura
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,git,github,proxmox" />
-  <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" height="48" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,git,github" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" height="48" />
 </p>
 
 ---
 
-## 🐧 Sistemas que uso
+## 🌐 Redes & Homelab
+
+<p>
+  <img src="https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white" />
+  <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" />
+  <img src="https://img.shields.io/badge/TP--Link-4ACBD6?style=for-the-badge&logo=tplink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+</p>
+
+## 💻 Sistemas
 
 <p>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
   <img src="https://img.shields.io/badge/CachyOS-00A6A6?style=for-the-badge&logo=archlinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white" />
 </p>
 
-## 🧰 Herramientas del día a día
+## 🧰 Herramientas
 
 <p>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
@@ -78,7 +91,7 @@ daily:      Arch Linux (btw) · CachyOS · Debian
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## 🤖 IA que uso
+## 🤖 IA
 
 <p>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
@@ -101,16 +114,8 @@ daily:      Arch Linux (btw) · CachyOS · Debian
 ## 📊 Estadísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU-USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU-USUARIO&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=ffffff" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&cache_seconds=86400" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&langs_count=8&cache_seconds=86400" />
 </p>
 
 <p align="center">
@@ -127,32 +132,14 @@ daily:      Arch Linux (btw) · CachyOS · Debian
   </a>
 </p>
 
-<p align="center">
-  <a href="https://novamcore.cl">
-    <img src="https://img.shields.io/badge/Ver%20portfolio-novamcore.cl-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
-
-<!--
-  BONUS: tarjetas de repos destacados.
-  Descomenta y cambia NOMBRE-DEL-REPO por tus repos reales.
-
-<p align="center">
-  <a href="https://github.com/TU-USUARIO/NOMBRE-DEL-REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU-USUARIO&repo=NOMBRE-DEL-REPO&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</p>
--->
 
 ---
 
 ## 📫 Contacto
 
 <p align="center">
-  <a href="https://novamcore.cl"><img src="https://img.shields.io/badge/Web-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://twitter.com/TU-USUARIO-X"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:TU-CORREO@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://discord.gg/TU-INVITE"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://novamcore.cl"><img src="https://img.shields.io/badge/novamcore.cl-0f2027?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" /></a>
+  <a href="https://x.com/aresss_13"><img src="https://img.shields.io/badge/@aresss__13-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
 <p align="center">
