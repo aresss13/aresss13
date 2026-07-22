@@ -30,12 +30,17 @@ redes:      Ubiquiti · MikroTik · TP-Link
 daily:      Arch Linux (btw) · CachyOS · Debian · Windows 11
 ```
 
-- 🚀 Construyo **aplicaciones web y software** de punta a punta
-- 🎨 Me gusta el **frontend con carácter**: CSS a mano y 3D con Three.js
-- ⛏️ Desarrollo **plugins y mods de Minecraft**
-- 🌐 Manejo **redes, routing y servidores** en producción
-- 🧪 Todo lo que aprendo lo pruebo primero en mi **homelab**
-- 🤖 Trabajo con **IA como copiloto** en el día a día
+🚀 Sobre mí
+
+    💻 Desarrollo Full Stack & DevOps: Construyo aplicaciones web y software de punta a punta, manejando la infraestructura desde el código hasta producción.
+
+    🌐 Infraestructura y Redes: Configuro y administro servidores, routing y despliegues (con experiencia en proyectos de migración de red y arquitecturas escalables).
+
+    🧪 Homelab & Experimentación: Todo lo nuevo lo pongo a prueba primero en mi propio homelab con Proxmox y Docker antes de llevarlo a producción.
+
+    ⛏️ Gaming & Mods: Desarrollo plugins y mods de Minecraft, abordando la ingeniería de software también desde la perspectiva del gaming.
+
+    🤖 Desarrollo Centrado en IA: Utilizo modelos de lenguaje e inteligencia artificial como copilotos y herramientas de integración en el flujo de trabajo diario.
 
 ---
 
